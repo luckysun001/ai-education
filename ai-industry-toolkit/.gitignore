@@ -1,0 +1,49 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+*.cache
+
+# 隐私文件
+.env
+.env.local
+.*.env
+
+# 图片和媒体文件（如果是示例图片可以保留）
+*.png
+*.jpg
+*.jpeg
+*.gif
+!.github/**/*.png
+
+# PDF 和文档（如果不想保存大文件）
+*.pdf
+*.doc
+*.docx
+
+# 数据文件（大文件建议不要放 Git）
+*.csv
+*.xlsx
+*.jsonl
+*.parquet
+
+# 压缩包
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz

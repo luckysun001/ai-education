@@ -1,0 +1,49 @@
+# Dependencies
+node_modules
+vendor
+*.pyc
+
+# Build output
+build
+dist
+*.egg-info
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temp
+*.tmp
+*.temp
+.cache/
+
+# Docs
+docs/_build
+_site
+*.pdf
+*.epub
+*.mobi
+
+# Secrets
+.env
+.env.local
+*.key
+secrets/
+
+# WorkBuddy local data
+.workbuddy/
+
+__pycache__/
+.pytest_cache/
