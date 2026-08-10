@@ -33,8 +33,8 @@
 
 | 项目 | 简介 | 适合人群 |
 |------|------|---------|
-| **[AI 行业应用百宝箱](https://github.com/opensource-ai-projects/ai-industry-toolkit)** | 按行业分类的 AI 应用指南，8 个行业 | 想知道自己行业怎么用 AI 的人 |
-| **[AI 职业技能加速器](https://github.com/opensource-ai-projects/ai-career-accelerator)** | 按职业分类的 AI 技能手册，7 个职业 | 想提升本职业效率的职场人 |
+| **[AI 行业应用百宝箱](https://github.com/luckysun001/ai-education/tree/main/ai-industry-toolkit)** | 按行业分类的 AI 应用指南，8 个行业 | 想知道自己行业怎么用 AI 的人 |
+| **[AI 职业技能加速器](https://github.com/luckysun001/ai-education/tree/main/ai-career-accelerator)** | 按职业分类的 AI 技能手册，7 个职业 | 想提升本职业效率的职场人 |
 
 三个项目互相补充，建议根据你的需求选择合适的项目学习。
 
