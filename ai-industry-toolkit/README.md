@@ -35,8 +35,8 @@
 
 | 项目 | 简介 | 适合人群 |
 |------|------|---------|
-| **[AI 职业技能加速器](https://github.com/opensource-ai-projects/ai-career-accelerator)** | 按职业分类的 AI 技能手册，7 个职业的完整工作流 | 想提升本职业效率的职场人 |
-| **[无代码 AI 实验室](https://github.com/opensource-ai-projects/no-code-ai-lab)** | 不用写代码的 AI 实战教程，从自动化到副业 | 想做自动化、做机器人、做副业的人 |
+| **[AI 职业技能加速器](https://github.com/luckysun001/ai-education/tree/main/ai-career-accelerator)** | 按职业分类的 AI 技能手册，7 个职业的完整工作流 | 想提升本职业效率的职场人 |
+| **[无代码 AI 实验室](https://github.com/luckysun001/ai-education/tree/main/no-code-ai-lab)** | 不用写代码的 AI 实战教程，从自动化到副业 | 想做自动化、做机器人、做副业的人 |
 
 三个项目互相补充，建议根据你的需求选择合适的项目学习。
 
