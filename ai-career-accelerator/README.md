@@ -211,8 +211,8 @@ AI 是工具，不是目的。
 ## 相关项目
 
 - [AI 行业应用百宝箱](../ai-industry-toolkit/)：按行业分类的 AI 应用指南
-- [大模型微调学习项目](../llm-finetuning-guide/)：从 0 到 1 学习大模型微调
-- [银行审计多智能体平台](../bank-audit-agents/)：企业级 AI 多智能体协作系统
+- [大模型微调学习项目](https://github.com/luckysun001/llm-finetuning-guide/)：从 0 到 1 学习大模型微调
+- [银行审计多智能体平台](https://github.com/luckysun001/bank-audit-agents/)：企业级 AI 多智能体协作系统
 
 ---
 

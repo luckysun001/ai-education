@@ -561,8 +561,8 @@ AI 是帮你节省时间，让你有更多时间去做这些事情，
 
 ## 相关资源
 
-- [商务类 Prompt 模板库](../ai-industry-toolkit/prompt-library/business/)
-- [市场营销行业 AI 应用指南](../ai-industry-toolkit/industries/marketing/)
+- [商务类 Prompt 模板库](../../ai-industry-toolkit/prompt-library/business)
+- [市场营销行业 AI 应用指南](../../ai-industry-toolkit/industries/marketing)
 
 ---
 

@@ -699,8 +699,8 @@ AI 能帮你把那些繁琐的、重复的、体力活的事情做好，
 
 ## 相关资源
 
-- [HR 行业 AI 应用指南](../ai-industry-toolkit/industries/hr/)
-- [商务类 Prompt 模板库](../ai-industry-toolkit/prompt-library/business/)
+- [HR 行业 AI 应用指南](../../ai-industry-toolkit/industries/hr)
+- [商务类 Prompt 模板库](../../ai-industry-toolkit/prompt-library/business)
 
 ---
 

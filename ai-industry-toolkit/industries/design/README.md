@@ -598,8 +598,8 @@ AI 是你的助手，不是你的设计师。
 
 ## 相关资源
 
-- [创意类 Prompt 模板库](../prompt-library/creative/)
-- [写作类 Prompt 模板库](../prompt-library/writing/)
+- [创意类 Prompt 模板库](../../prompt-library/creative)
+- [写作类 Prompt 模板库](../../prompt-library/writing)
 
 ---
 

@@ -584,7 +584,7 @@ AI 写的代码经常有这些问题：
 
 ## 相关资源
 
-- [编程类 Prompt 模板库](../prompt-library/coding/)
+- [编程类 Prompt 模板库](../../prompt-library/coding)
 
 ---
 

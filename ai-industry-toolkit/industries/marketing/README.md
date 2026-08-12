@@ -417,9 +417,9 @@ AI 说「这个转化率低」，但为什么低？是渠道问题？还是产�
 
 ## 相关资源
 
-- [写作类 Prompt 模板库](../prompt-library/writing/)
-- [分析类 Prompt 模板库](../prompt-library/analysis/)
-- [创意类 Prompt 模板库](../prompt-library/creative/)
+- [写作类 Prompt 模板库](../../prompt-library/writing)
+- [分析类 Prompt 模板库](../../prompt-library/analysis)
+- [创意类 Prompt 模板库](../../prompt-library/creative)
 
 ---
 

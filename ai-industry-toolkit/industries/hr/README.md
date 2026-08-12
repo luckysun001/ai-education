@@ -728,8 +728,8 @@ AI 可以帮你整理信息，帮你列优缺点，帮你做风险评估，
 
 ## 相关资源
 
-- [商务类 Prompt 模板库](../prompt-library/business/)
-- [创意类 Prompt 模板库](../prompt-library/creative/)
+- [商务类 Prompt 模板库](../../prompt-library/business)
+- [创意类 Prompt 模板库](../../prompt-library/creative)
 
 ---
 

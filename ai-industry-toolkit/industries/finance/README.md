@@ -568,8 +568,8 @@ AI 不知道你的仓位、你的风险承受能力、你的投资期限。
 
 ## 相关资源
 
-- [分析类 Prompt 模板库](../prompt-library/analysis/)
-- [商务类 Prompt 模板库](../prompt-library/business/)
+- [分析类 Prompt 模板库](../../prompt-library/analysis)
+- [商务类 Prompt 模板库](../../prompt-library/business)
 
 ---
 

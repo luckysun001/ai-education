@@ -506,9 +506,9 @@ AI 写的 PRD 大概率：
 
 ## 相关资源
 
-- [分析类 Prompt 模板库](../ai-industry-toolkit/prompt-library/analysis/)
-- [写作类 Prompt 模板库](../ai-industry-toolkit/prompt-library/writing/)
-- [互联网行业 AI 应用指南](../ai-industry-toolkit/industries/software/)
+- [分析类 Prompt 模板库](../../ai-industry-toolkit/prompt-library/analysis)
+- [写作类 Prompt 模板库](../../ai-industry-toolkit/prompt-library/writing)
+- [互联网行业 AI 应用指南](../../ai-industry-toolkit/industries/software)
 
 ---
 

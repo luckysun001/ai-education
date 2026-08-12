@@ -469,8 +469,8 @@ AI 是工具，是助手，不能代替人的作用。
 
 ## 相关资源
 
-- [写作类 Prompt 模板库](../prompt-library/writing/)
-- [创意类 Prompt 模板库](../prompt-library/creative/)
+- [写作类 Prompt 模板库](../../prompt-library/writing)
+- [创意类 Prompt 模板库](../../prompt-library/creative)
 
 ---
 

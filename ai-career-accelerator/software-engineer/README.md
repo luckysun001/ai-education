@@ -486,8 +486,8 @@ AI 是放大器，不是替代器。
 
 ## 相关资源
 
-- [编程类 Prompt 模板库](../ai-industry-toolkit/prompt-library/coding/)
-- [软件开发行业 AI 应用指南](../ai-industry-toolkit/industries/software/)
+- [编程类 Prompt 模板库](../../ai-industry-toolkit/prompt-library/coding)
+- [软件开发行业 AI 应用指南](../../ai-industry-toolkit/industries/software)
 
 ---
 

@@ -617,9 +617,9 @@ AI 可以帮你分析 1000 条评论，
 
 ## 相关资源
 
-- [写作类 Prompt 模板库](../ai-industry-toolkit/prompt-library/writing/)
-- [创意类 Prompt 模板库](../ai-industry-toolkit/prompt-library/creative/)
-- [市场营销行业 AI 应用指南](../ai-industry-toolkit/industries/marketing/)
+- [写作类 Prompt 模板库](../../ai-industry-toolkit/prompt-library/writing)
+- [创意类 Prompt 模板库](../../ai-industry-toolkit/prompt-library/creative)
+- [市场营销行业 AI 应用指南](../../ai-industry-toolkit/industries/marketing)
 
 ---
 

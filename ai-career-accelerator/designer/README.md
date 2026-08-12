@@ -554,8 +554,8 @@ AI 是放大器，不是替代器。
 
 ## 相关资源
 
-- [创意类 Prompt 模板库](../ai-industry-toolkit/prompt-library/creative/)
-- [设计行业 AI 应用指南](../ai-industry-toolkit/industries/design/)
+- [创意类 Prompt 模板库](../../ai-industry-toolkit/prompt-library/creative)
+- [设计行业 AI 应用指南](../../ai-industry-toolkit/industries/design)
 
 ---
 

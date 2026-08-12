@@ -633,8 +633,8 @@ AI 的训练数据是截止到某个时间点的，可能不知道最新的变�
 
 ## 相关资源
 
-- [分析类 Prompt 模板库](../prompt-library/analysis/)
-- [商务类 Prompt 模板库](../prompt-library/business/)
+- [分析类 Prompt 模板库](../../prompt-library/analysis)
+- [商务类 Prompt 模板库](../../prompt-library/business)
 
 ---
 

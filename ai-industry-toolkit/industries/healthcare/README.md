@@ -529,8 +529,8 @@ AI 可以帮你：
 
 ## 相关资源
 
-- [分析类 Prompt 模板库](../prompt-library/analysis/)
-- [写作类 Prompt 模板库](../prompt-library/writing/)
+- [分析类 Prompt 模板库](../../prompt-library/analysis)
+- [写作类 Prompt 模板库](../../prompt-library/writing)
 
 ---
 
