@@ -8,7 +8,8 @@
 <p>
 <a href="#"><img src="https://img.shields.io/badge/字数-5.9万-FFD700?style=for-the-badge" alt="字数"></a>
 <a href="#"><img src="https://img.shields.io/badge/行业-8个-22C55E?style=for-the-badge" alt="行业"></a>
-<a href="#"><img src="https://img.shields.io/badge/版本-v2.0-009688?style=for-the-badge" alt="版本"></a>
+<a href="#"><img src="https://img.shields.io/badge/版本-v2.1-009688?style=for-the-badge" alt="版本"></a>
+<a href="#"><img src="https://img.shields.io/badge/更新-2026.10-3B82F6?style=for-the-badge" alt="更新"></a>
 </p>
 
 </div>
@@ -53,6 +54,8 @@
 | [AI 基础概念](getting-started/01-ai-basics.md) | 10 分钟搞懂 AI 是什么，不是什么 | 4500 字 |
 | [Prompt 入门指南](getting-started/02-prompt-engineering.md) | 写出有效的 Prompt，提升 AI 输出质量 | 7700 字 |
 | [常用工具介绍](getting-started/03-common-tools.md) | 入门应该先掌握哪些工具 | 8300 字 |
+| [AI 智能体入门](getting-started/04-ai-agent.md) | 让 AI 替你干活：智能体怎么用、怎么下指令 | 4700 字 |
+| [MCP 是什么](getting-started/05-mcp.md) | 智能体能干活的幕后功臣，一文讲清 | 2600 字 |
 | [入门篇索引](getting-started/README.md) | 学习路径和建议 | |
 
 ---

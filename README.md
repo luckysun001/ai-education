@@ -8,7 +8,8 @@ AI 行业应用百宝箱 · AI 职业技能加速器 · 无代码 AI 实验室
 <p>
 <a href="#"><img src="https://img.shields.io/badge/字数-20万+-FFD700?style=for-the-badge" alt="字数"></a>
 <a href="#"><img src="https://img.shields.io/badge/场景-100+-22C55E?style=for-the-badge" alt="场景"></a>
-<a href="#"><img src="https://img.shields.io/badge/版本-v2.0-009688?style=for-the-badge" alt="版本"></a>
+<a href="#"><img src="https://img.shields.io/badge/版本-v2.1-009688?style=for-the-badge" alt="版本"></a>
+<a href="#"><img src="https://img.shields.io/badge/更新-2026.10-3B82F6?style=for-the-badge" alt="更新"></a>
 </p>
 
 <p>
