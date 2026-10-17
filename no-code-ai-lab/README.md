@@ -6,7 +6,7 @@
 把你的效率提升 10 倍，把重复的工作全部交给 AI。
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/字数-5万-FFD700?style=for-the-badge" alt="字数"></a>
+<a href="#"><img src="https://img.shields.io/badge/字数-3.7万-FFD700?style=for-the-badge" alt="字数"></a>
 <a href="#"><img src="https://img.shields.io/badge/模块-6个-22C55E?style=for-the-badge" alt="模块"></a>
 <a href="#"><img src="https://img.shields.io/badge/版本-v2.0-009688?style=for-the-badge" alt="版本"></a>
 </p>

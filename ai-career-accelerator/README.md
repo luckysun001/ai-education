@@ -6,7 +6,7 @@
 产品经理 · 程序员 · 设计师 · 运营 · 市场 · HR · 管理者
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/字数-9.4万-FFD700?style=for-the-badge" alt="字数"></a>
+<a href="#"><img src="https://img.shields.io/badge/字数-8.0万-FFD700?style=for-the-badge" alt="字数"></a>
 <a href="#"><img src="https://img.shields.io/badge/职业-7个-22C55E?style=for-the-badge" alt="职业"></a>
 <a href="#"><img src="https://img.shields.io/badge/版本-v2.0-009688?style=for-the-badge" alt="版本"></a>
 </p>
@@ -74,22 +74,28 @@
 
 ### ✅ 通用技能和工具清单
 
-> 📝 以下内容正在编写中，暂未发布。
+→ **[通用技能与工具清单](general-skills/README.md)**（与职业无关，建议先看这一页）
 
-- AI 工具选择指南：哪些工具值得付费？哪些免费的就够用？（TODO）
-- Prompt 核心技能清单：每个职业都应该掌握的 10 个 Prompt 技巧（TODO）
-- 效率提升清单：用 AI 把日常效率提升 30% 的 checklist（TODO）
-- 避坑指南：每个职业用 AI 最容易犯的错误（TODO）
+| 内容 | 说明 |
+|------|------|
+| [AI 工具选择指南](general-skills/README.md) | 付费还是免费？先算"回本公式"，再给值得/不值得付费的场景清单 |
+| [Prompt 核心技能清单](general-skills/README.md) | 10 个技巧，按优先级分两梯队，前 5 条覆盖 80% 日常场景 |
+| [效率提升清单](general-skills/README.md) | 4 类最该交给 AI 的事、3 类别指望它的事，以及 7 天挑战 |
+| [避坑指南](general-skills/README.md) | 6 个高频错误：当事实、一次性丢大段材料、贴机密、一个 Prompt 用到底等 |
 
 ---
 
 ### 🗺️ 学习路径
 
-> 📝 以下内容正在编写中，暂未发布。
+→ **[学习路径](learning-paths/README.md)**（三条路径按现状选一条，不要同时开始）
 
-- 30 天 AI 入门计划：从 0 到 1，每天 30 分钟（TODO）
-- 14 天专项提升计划：针对某个职业的深度技能（TODO）
-- 7 天团队 AI 落地计划：让整个团队都用上 AI（TODO）
+| 路径 | 适合谁 | 节奏 |
+|------|--------|------|
+| [30 天 AI 入门计划](learning-paths/README.md) | 几乎没用过 AI 的人 | 每天 30 分钟，四周从「会用」到「用稳」 |
+| [14 天专项提升计划](learning-paths/README.md) | 已会用，想在核心场景超过同事 | 拆解 → 调教 → 固化，攻破 3 个高频场景 |
+| [7 天团队 AI 落地计划](learning-paths/README.md) | 管理者 / 想推动团队提效的人 | 摸底 → 定边界 → 选场景 → 做模板 → 工作坊 |
+
+> 团队落地最常见的失败是「只发工具名单、不给场景」，计划里附了失败模式对照表。
 
 ---
 

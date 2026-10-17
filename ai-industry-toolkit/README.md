@@ -6,7 +6,7 @@
 金融 · 教育 · 医疗 · 法律 · 电商 · 媒体 · 地产 · 制造业
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/字数-5.9万-FFD700?style=for-the-badge" alt="字数"></a>
+<a href="#"><img src="https://img.shields.io/badge/字数-11.2万-FFD700?style=for-the-badge" alt="字数"></a>
 <a href="#"><img src="https://img.shields.io/badge/行业-8个-22C55E?style=for-the-badge" alt="行业"></a>
 <a href="#"><img src="https://img.shields.io/badge/版本-v2.1-009688?style=for-the-badge" alt="版本"></a>
 <a href="#"><img src="https://img.shields.io/badge/更新-2026.10-3B82F6?style=for-the-badge" alt="更新"></a>
